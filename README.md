@@ -1,7 +1,5 @@
 # Titanic_Data_Cleaning_Project
 
-# Titanic Data Cleaning Project
-
 ## Overview
 ```
 This project demonstrates the process of cleaning and preprocessing the Titanic dataset.
